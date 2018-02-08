@@ -1,0 +1,121 @@
+/* color: #08090C; original blue*/
+html {
+  font-size: 62.5%;
+  background-color: #FCFFFD;
+}
+
+body {
+  font-size: 18px;
+  font-size: 1.8rem;
+  letter-spacing: .12em;
+  font-family: 'Noto Sans', sans-serif;
+  color: #2a3040;
+  background-color: #FCFFFD;
+}
+@media screen and (max-width:980px) {
+  body {
+    font-size: 1.6rem;
+  }
+}
+@media screen and (max-width:768px) {
+  body {
+    font-size: 1.4rem;
+  }
+}
+
+h2 {
+  font-size: 2.8rem;
+  letter-spacing: .12em;
+}
+@media screen and (max-width:980px) {
+  h2 {
+    font-size: 2.4rem;
+  }
+}
+@media screen and (max-width:768px) {
+  h2 {
+    font-size: 2rem;
+  }
+}
+
+.main {
+  text-align: right;
+}
+
+.name-lead {
+  font-size: 3.8rem;
+  letter-spacing: .12em;
+}
+@media screen and (max-width:980px) {
+  .name-lead {
+    font-size: 2.8rem;
+  }
+}
+@media screen and (max-width:768px) {
+  .name-lead {
+    font-size: 2.4rem;
+  }
+}
+
+.title {
+  font-size: 58px;
+  font-size: 5.8rem;
+  font-weight: 700;
+  letter-spacing: .12em;
+  line-height: 1.2em;
+  margin: 0;
+  color: #2a3040;
+}
+@media screen and (max-width:980px) {
+  .title {
+    font-size: 4.8rem;
+  }
+}
+@media screen and (max-width:768px) {
+  .title {
+    font-size: 3.8rem;
+  }
+}
+@media screen and (max-width:540px) {
+  .title {
+    font-size: 3.4rem;
+  }
+}
+
+.section-header {
+  margin: 30px 0 15px 0;
+}
+@media screen and (max-width:980px) {
+  .section-header {
+    margin: 25px 0 12px 0;
+  }
+}
+@media screen and (max-width:768px) {
+  .section-header {
+    margin: 18px 0 10px 0;
+  }
+}
+
+.recent-projects {
+  font-style: italic;
+}
+
+.project-link {
+  color: #D06C6C;
+  font-style: italic;
+  margin-bottom: 12px;
+}
+@media screen and (max-width:768px) {
+  .project-link {
+    font-size: 1.6rem;
+  }
+}
+
+.brand-list {
+  font-style: italic;
+}
+@media screen and (max-width:768px) {
+  .brand-list {
+    font-size: 1.6rem;
+  }
+}
