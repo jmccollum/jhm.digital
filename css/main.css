@@ -16,7 +16,8 @@ html {
 body {
   letter-spacing: .12em;
   font-size: 1.6rem;
-  font-family: 'Open Sans', sans-serif;
+  /* font-family: 'Open Sans', sans-serif; */
+  font-family: 'Encode Sans Expanded', sans-serif;
   background-image: linear-gradient(to top, #ffffff 0%, rgba(233,240,255,1) 100%);
 }
 @media screen and (max-width:980px) {
