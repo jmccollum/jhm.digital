@@ -31,6 +31,10 @@ body {
 a.project-link {
   color: #C74D4D;
 }
+a.no-style-link {
+  color: #274648;
+  text-decoration: none;
+}
 
 .title {
   font-weight: 400;
